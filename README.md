@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+#
+# Greetings.
+#
+# I am learning github and android development and play framework.
